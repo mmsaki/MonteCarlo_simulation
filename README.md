@@ -14,12 +14,9 @@ In this section of the challenge, you will create a personal finance planner app
 
 * The average household income for each member of the credit union is $12,000.
     * Assume the following amount of crypto assets: `1.2` BTC and `5.3` ETH.
-    * Assume the following amount of shares in stocks and bonds: `50` SPY (stocks) and `200` AGG (bonds).
-    Use the starter Jupyter notebook to complete the following steps.
     * Collect Crypto Prices Using the `requests` Library
     * Create two variables called `my_btc` and `my_eth`. Set them equal to `1.2` and `5.3`, respectively.
-
-    * Use the `requests` library to fetch the current price in US dollars (`USD`) of bitcoin (`BTC`) and ethereum (`ETH`) using the **Alternative Free Crypto API** endpoints provided in the starter notebook.
+    * Use the `requests` library to fetch the current price in US dollars (`USD`) of bitcoin (`BTC`) and ethereum (`ETH`) using Alternative Free Crypto API.
     * Parse the API JSON response to select only the crypto prices and store each price in a variable.
         * Be aware of the particular identifier for each cryptocurrency in the API JSON response - the bitcoin identifier is `1` whereas ethereum is `1027`.
     * Compute the portfolio value of cryptocurrencies and print the results.
