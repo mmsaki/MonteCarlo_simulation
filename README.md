@@ -2,7 +2,7 @@
 <div> <img src="https://media4.giphy.com/media/5gJGFXX0xRxzmdd0IC/giphy.gif?cid=ecf05e479wvx475suppqlsvbfna1cyny2r9mf8b65vw8ff7k&rid=giphy.gif&ct=g" alt="Sim" align="center" width="100%"/>
 </div>
 
-# Financial Planning
+# Financial Planning & Retirement Planning using APIs and Monte Carlo Simulations
 
 ## Table of Contents
 1. [Personal Finance Planning](#-1-personal-finance-planner)
