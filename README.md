@@ -6,7 +6,7 @@
 1. [Personal Finance Planning](#-1-personal-finance-planner)
 2. [Retirement Planning](#-2-retirement-planning)
 3. [Early Retirement](#-3-early-retirement)
-4. [Results]()
+4. [Results](#-4-results)
 
 ## 🧩 1. Personal Finance Planner
 
