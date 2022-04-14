@@ -30,16 +30,14 @@
     * Compute the value in dollars of the current amount of shares and print the results.
 
 * Savings Health Analysis
-    * In this section, you will assess the financial health of the credit union's members.
-
-        * Create a variable called `monthly_income` and set its value to `12000`.
-        * To analyze savings health, create a DataFrame called `df_savings` with two rows. Store the total value in dollars of the crypto assets in the first row and the total value of the shares in the second row.
-        * The `df_savings` DataFrame should have one column named `amount` and two rows where `crypto` and `shares` are the index values:
-        * Use the `df_savings` DataFrame to plot a pie chart to visualize the composition of personal savings.
-        * Use `if` conditional statements to validate if the current savings are enough for an emergency fund. An ideal emergency fund should be equal to three times your monthly income.
-        * If total savings are greater than the emergency fund, display a message congratulating the person for having enough money in this fund.
-        * If total savings are equal to the emergency fund, display a message congratulating the person on reaching this financial goal.
-        * If total savings are less than the emergency fund, display a message showing how many dollars away the person is from reaching the goal.
+    * Create a variable called `monthly_income` and set its value to `12000`.
+    * To analyze savings health, create a DataFrame called `df_savings` with two rows. Store the total value in dollars of the crypto assets in the first row and the total value of the shares in the second row.
+    * The `df_savings` DataFrame should have one column named `amount` and two rows where `crypto` and `shares` are the index values:
+    * Use the `df_savings` DataFrame to plot a pie chart to visualize the composition of personal savings.
+    * Use `if` conditional statements to validate if the current savings are enough for an emergency fund. An ideal emergency fund should be equal to three times your monthly income.
+    * If total savings are greater than the emergency fund, display a message congratulating the person for having enough money in this fund.
+    * If total savings are equal to the emergency fund, display a message congratulating the person on reaching this financial goal.
+    * If total savings are less than the emergency fund, display a message showing how many dollars away the person is from reaching the goal.
 
 ## 🎰 2. Retirement Planning
 
