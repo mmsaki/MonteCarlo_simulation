@@ -1,4 +1,3 @@
-
 <div> <img src="https://media4.giphy.com/media/5gJGFXX0xRxzmdd0IC/giphy.gif?cid=ecf05e479wvx475suppqlsvbfna1cyny2r9mf8b65vw8ff7k&rid=giphy.gif&ct=g" alt="Sim" align="center" width="100%"/>
 </div>
 
@@ -12,9 +11,8 @@
 
 ## 🧩 1. Personal Financial Planner
 
-In this section of the challenge, you will create a personal finance planner application. To develop the personal finance planner prototype, you should take into account the following assumptions:
-
-* The average household income for each member of the credit union is $12,000.
+* Create a personal finance planner application. To develop this personal finance planner prototype, you should take into account the following assumptions:
+    * The average household income for each member of the credit union is $12,000.
     * Assume the following amount of crypto assets: `1.2` BTC and `5.3` ETH.
     * Collect Crypto Prices Using the `requests` Library
     * Create two variables called `my_btc` and `my_eth`. Set them equal to `1.2` and `5.3`, respectively.
