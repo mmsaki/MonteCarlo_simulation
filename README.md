@@ -2,15 +2,15 @@
 <div> <img src="https://media4.giphy.com/media/5gJGFXX0xRxzmdd0IC/giphy.gif?cid=ecf05e479wvx475suppqlsvbfna1cyny2r9mf8b65vw8ff7k&rid=giphy.gif&ct=g" alt="Sim" align="center" width="100%"/>
 </div>
 
-# Financial Planning & Retirement Planning using APIs and Monte Carlo Simulations
+# Retirement Planning using APIs and Monte Carlo Simulations
 
 ## Table of Contents
-1. [Personal Finance Planning](#-1-personal-finance-planner)
+1. [Personal Finance Planner](#-1-personal-finance-planner)
 2. [Retirement Planning](#-2-retirement-planning)
 3. [Early Retirement](#-3-early-retirement)
 4. [Results](#-4-results)
 
-## 🧩 1. Personal Finance Planner
+## 🧩 1. Personal Financial Planner
 
 In this section of the challenge, you will create a personal finance planner application. To develop the personal finance planner prototype, you should take into account the following assumptions:
 
