@@ -1,6 +1,7 @@
 <div>
-<img src="https://c.tenor.com/9qwJqVB34ckAAAAC/enjoy-your-retirement-happy-retirement.gif" alt="Sim" align="center" width="100%"/>
+<!-- <img src="https://c.tenor.com/9qwJqVB34ckAAAAC/enjoy-your-retirement-happy-retirement.gif" alt="Sim" align="center" width="100%"/>
 </div>
+-->
 
 ## Table of Contents
 1. [Personal Finance Planning](#-1-personal-finance-planner)
