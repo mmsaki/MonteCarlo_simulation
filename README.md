@@ -4,9 +4,9 @@
 </div>
 
 ## Table of Contents
-1. [Personal Finance Planning](#personal-finance-planner)
-2. [Retirement Planning](#retirement-planning)
-3. [Early Retirement](#early-retirement)
+1. [Personal Finance Planning](#-1-personal-finance-planner)
+2. [Retirement Planning](#-2-retirement-planning)
+3. [Early Retirement](#-3-early-retirement)
 
 ## 🧩 1. Personal Finance Planner
 
