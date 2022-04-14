@@ -8,7 +8,7 @@
 2. [Retirement Planning](#retirement-planning)
 3. [Early Retirement](#early-retirement)
 
-## 🧩 1.  Personal Finance Planner
+## 🧩1. Personal Finance Planner
 
 In this section of the challenge, you will create a personal finance planner application. To develop the personal finance planner prototype, you should take into account the following assumptions:
 
@@ -44,7 +44,7 @@ In this section of the challenge, you will create a personal finance planner app
         * If total savings are equal to the emergency fund, display a message congratulating the person on reaching this financial goal.
         * If total savings are less than the emergency fund, display a message showing how many dollars away the person is from reaching the goal.
 
-## 🎰 2. Retirement Planning
+## 🎰2. Retirement Planning
 
 * In this section, you will use the Alpaca API to fetch historical closing prices for a retirement portfolio and then Use the MCForecastTools toolkit to create Monte Carlo simulations to project the portfolio performance at `30` years. 
 * You will then use the Monte Carlo data to answer questions about the portfolio.
@@ -63,7 +63,7 @@ In this section of the challenge, you will create a personal finance planner app
     * Given an initial investment of `$20,000`, calculate the expected portfolio return in dollars at the `95%` lower and upper confidence intervals.
     * Calculate the expected portfolio return at the `95%` lower and upper confidence intervals based on a `50%` increase in the initial investment.
 
-## 🎲  3. Early Retirement
+## 🎲3. Early Retirement
 
 * The CTO of the Credit Union was really impressed with your work on this planner, but commented that `30` years seems like such a long time to wait to retire! 
 *  The CTO starts wondering if the retirement plan could be adjusted to account for an earlier than normal retirement.
