@@ -1,5 +1,5 @@
 <div>
-<img src="https://c.tenor.com/9qwJqVB34ckAAAAC/enjoy-your-retirement-happy-retirement.gif" alt="Sim" align="center" width="70%"/>
+<img src="https://c.tenor.com/9qwJqVB34ckAAAAC/enjoy-your-retirement-happy-retirement.gif" alt="Sim" align="center" width="100%"/>
 </div>
 
 ## Table of Contents
