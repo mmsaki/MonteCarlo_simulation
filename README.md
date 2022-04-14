@@ -1,4 +1,3 @@
-# Financial Planning using APIs and Monte Carlo Simulations
 <div>
 <img src="./Images/grandpa-abe-exit.gif" alt="Sim" width="100%"/>
 </div>
@@ -7,6 +6,7 @@
 1. [Personal Finance Planning](#-1-personal-finance-planner)
 2. [Retirement Planning](#-2-retirement-planning)
 3. [Early Retirement](#-3-early-retirement)
+4. [Results]()
 
 ## 🧩 1. Personal Finance Planner
 
@@ -68,3 +68,6 @@ In this section of the challenge, you will create a personal finance planner app
 * The CTO of the Credit Union was really impressed with your work on this planner, but commented that `30` years seems like such a long time to wait to retire! 
 *  The CTO starts wondering if the retirement plan could be adjusted to account for an earlier than normal retirement.
     * Try adjusting the portfolio to either include more risk (a higher stock than bond ratio) or to have a larger initial investment and rerun the retirement analysis to see what it would take to retire in `5` or `10` years instead of `30`!
+
+## 🪄 4. Results
+**File:** [Financial Planner](./financial-planner.ipynb)
