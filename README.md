@@ -41,7 +41,7 @@
 
 ## 🎰 2. Retirement Planning
 
-* In this section, you will use the Alpaca API to fetch historical closing prices for a retirement portfolio and then Use the MCForecastTools toolkit to create Monte Carlo simulations to project the portfolio performance at `30` years. 
+* Use the Alpaca API to fetch historical closing prices for a retirement portfolio and then Use the MCForecastTools toolkit to create Monte Carlo simulations to project the portfolio performance at `30` years. 
 * You will then use the Monte Carlo data to answer questions about the portfolio.
 
 * Monte Carlo Simulation
