@@ -1,7 +1,8 @@
 
-<!-- <div> <img src="https://c.tenor.com/9qwJqVB34ckAAAAC/enjoy-your-retirement-happy-retirement.gif" alt="Sim" align="center" width="100%"/>
+<div> <img src="https://media4.giphy.com/media/5gJGFXX0xRxzmdd0IC/giphy.gif?cid=ecf05e479wvx475suppqlsvbfna1cyny2r9mf8b65vw8ff7k&rid=giphy.gif&ct=g" alt="Sim" align="center" width="100%"/>
 </div>
--->
+
+# Financial Planning
 
 ## Table of Contents
 1. [Personal Finance Planning](#-1-personal-finance-planner)
@@ -69,6 +70,3 @@ In this section of the challenge, you will create a personal finance planner app
 
 ## 🪄 4. Results
 **File:** [Financial Planner](./financial-planner.ipynb)
-
-<div> <img src="https://c.tenor.com/9qwJqVB34ckAAAAC/enjoy-your-retirement-happy-retirement.gif" alt="Sim" align="center" width="100%"/>
-</div>
