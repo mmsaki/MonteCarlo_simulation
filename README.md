@@ -1,6 +1,7 @@
 # Unit 5 - Financial Planning
-
-<img src="hhttps://c.tenor.com/yTxA7WgkBEUAAAAd/grandpa-abe-exit.gif" alt="drawing" width="100%"/>
+<div>
+<img src="https://tenor.com/GrLU.gif" alt="Sim" width="100%"/>
+</div>
 
 ### Requirements
 
