@@ -1,5 +1,7 @@
+<!---
 <div> <img src="https://media4.giphy.com/media/5gJGFXX0xRxzmdd0IC/giphy.gif?cid=ecf05e479wvx475suppqlsvbfna1cyny2r9mf8b65vw8ff7k&rid=giphy.gif&ct=g" alt="Sim" align="center" width="100%"/>
 </div>
+-->
 
 # Financial Planning using APIs & Monte Carlo Simulations
 
